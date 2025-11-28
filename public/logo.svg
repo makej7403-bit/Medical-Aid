@@ -1,0 +1,7 @@
+<svg width="160" height="40" viewBox="0 0 160 40" xmlns="http://www.w3.org/2000/svg" role="img">
+  <rect rx="8" width="160" height="40" fill="#0b6cff" />
+  <g transform="translate(10,6)" fill="#fff" font-family="Inter, Arial, sans-serif">
+    <text x="40" y="18" font-size="14" font-weight="700">Medical</text>
+    <text x="96" y="18" font-size="14" font-weight="400">Aid</text>
+  </g>
+</svg>
